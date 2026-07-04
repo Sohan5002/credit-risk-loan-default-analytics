@@ -162,8 +162,4 @@ credit-risk-loan-default-analytics/
 - Portfolio Stress Testing
 - Real-Time Credit Risk Dashboard
 
----
 
-## Disclaimer
-
-This project uses a **synthetic dataset** created solely for educational and portfolio purposes. No real customer, financial institution, or confidential banking data has been used.
