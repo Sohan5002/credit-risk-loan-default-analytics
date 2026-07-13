@@ -364,3 +364,5 @@ df.to_csv("/mnt/user-data/outputs/finedge_loan_portfolio.csv", index=False, enco
 print("Rows:", len(df), "Columns:", len(df.columns))
 print(df.isna().mean().sort_values(ascending=False).head(12))
 df.to_pickle("/home/claude/finedge_df.pkl")
+
+
